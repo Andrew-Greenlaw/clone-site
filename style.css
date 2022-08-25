@@ -1,0 +1,6 @@
+.img-box {
+  z-index: -1;
+  height: 388px;
+  width: 388px;
+  object-fit: cover;
+}
